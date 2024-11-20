@@ -7,5 +7,9 @@
 Thumbs.db
 
 .vs/
+*.pbg
+*.vcxproj
+*.filters
+*.user
 
 *.sln
