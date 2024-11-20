@@ -1,2 +1,4 @@
-﻿  main.cpp
-  test.vcxproj -> D:\HuaweiMoveData\Users\97725\Desktop\学\程序设计范式\Drinkins_期末大作业\Try\x64\Debug\test.exe
+﻿  enemy.cpp
+  main.cpp
+  正在生成代码...
+D:\一些项目~\Clone Test\Try\test\main.cpp(7,5): error C3861: “out”: 找不到标识符

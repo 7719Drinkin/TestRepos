@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HuaweiMoveData\\Users\\97725\\Desktop\\\u5B66\\\u7A0B\u5E8F\u8BBE\u8BA1\u8303\u5F0F\\Drinkins_\u671F\u672B\u5927\u4F5C\u4E1A\\Try\\",
+  "WorkspaceRootPath": "D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1E15CA4-8F3D-4014-8257-8AFACF9ECB2A}|test\\test.vcxproj|D:\\HuaweiMoveData\\Users\\97725\\Desktop\\\u5B66\\\u7A0B\u5E8F\u8BBE\u8BA1\u8303\u5F0F\\Drinkins_\u671F\u672B\u5927\u4F5C\u4E1A\\Try\\test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F1E15CA4-8F3D-4014-8257-8AFACF9ECB2A}|test\\test.vcxproj|D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F1E15CA4-8F3D-4014-8257-8AFACF9ECB2A}|test\\test.vcxproj|solutionrelative:test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E15CA4-8F3D-4014-8257-8AFACF9ECB2A}|test\\test.vcxproj|D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E15CA4-8F3D-4014-8257-8AFACF9ECB2A}|test\\test.vcxproj|solutionrelative:test\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E15CA4-8F3D-4014-8257-8AFACF9ECB2A}|test\\test.vcxproj|D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E15CA4-8F3D-4014-8257-8AFACF9ECB2A}|test\\test.vcxproj|solutionrelative:test\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enemy.h",
+              "DocumentMoniker": "D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\enemy.h",
+              "RelativeDocumentMoniker": "test\\enemy.h",
+              "ToolTip": "D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\enemy.h",
+              "RelativeToolTip": "test\\enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T13:40:31.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemy.cpp",
+              "DocumentMoniker": "D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\enemy.cpp",
+              "RelativeDocumentMoniker": "test\\enemy.cpp",
+              "ToolTip": "D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\enemy.cpp",
+              "RelativeToolTip": "test\\enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T13:38:58.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\HuaweiMoveData\\Users\\97725\\Desktop\\\u5B66\\\u7A0B\u5E8F\u8BBE\u8BA1\u8303\u5F0F\\Drinkins_\u671F\u672B\u5927\u4F5C\u4E1A\\Try\\test\\main.cpp",
+              "DocumentMoniker": "D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\main.cpp",
               "RelativeDocumentMoniker": "test\\main.cpp",
-              "ToolTip": "D:\\HuaweiMoveData\\Users\\97725\\Desktop\\\u5B66\\\u7A0B\u5E8F\u8BBE\u8BA1\u8303\u5F0F\\Drinkins_\u671F\u672B\u5927\u4F5C\u4E1A\\Try\\test\\main.cpp",
-              "RelativeToolTip": "test\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ToolTip": "D:\\\u4E00\u4E9B\u9879\u76EE~\\Clone Test\\Try\\test\\main.cpp*",
+              "RelativeToolTip": "test\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-20T13:26:41.642Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
